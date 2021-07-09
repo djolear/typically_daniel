@@ -1,6 +1,6 @@
 ---
 title: "Typically Daniel"
-subtitle: "A special place where Daniels can Daniel"
+subtitle: "As in, that's so typically Daniel"
 description: "Welcome to typically Daniel, a special place where Daniels can Daniel and non-Daniels can Leinad. CreatOrs need to percolate and if that sounds like babbledyguc to you then please take a [pikachu](https://en.wikipedia.org/wiki/Pikachu)."
 images:
   - img/revoir.jpg
